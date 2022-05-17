@@ -1,0 +1,7 @@
+NDVI_predict.joblib : The linear regression model to predict the required tree shade based on the temperature
+
+app.py : a webapplication serving the model prediction
+
+NDVI_model.ipynb : notebook file creating the model
+
+NDVI_model.html : html of the notebook NDVI_model.ipynb for readbility
